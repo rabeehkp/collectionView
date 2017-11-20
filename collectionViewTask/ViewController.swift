@@ -16,7 +16,7 @@ class ViewController: UIViewController , UICollectionViewDelegate, UICollectionV
     
     //MARK: -Variables
     
-    var cars = ["Audi","Bmw","Benz","Honda","RangeRover","Nissan","suzuki","porche"]
+    var cars = ["Audi","Bmw","Benz","Honda","RangeRover","Nissan","Suzuki","Porche","Toyota"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
