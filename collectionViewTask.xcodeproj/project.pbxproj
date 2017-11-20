@@ -14,6 +14,7 @@
 		59CD5B941FC2B56800760D33 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 59CD5B931FC2B56800760D33 /* Assets.xcassets */; };
 		59CD5B971FC2B56800760D33 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 59CD5B951FC2B56800760D33 /* LaunchScreen.storyboard */; };
 		59CD5BA21FC2B56900760D33 /* collectionViewTaskTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CD5BA11FC2B56900760D33 /* collectionViewTaskTests.swift */; };
+		59CD5BAD1FC2CC9D00760D33 /* imgAndtxtCVcell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 59CD5BAC1FC2CC9D00760D33 /* imgAndtxtCVcell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		59CD5B9D1FC2B56900760D33 /* collectionViewTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = collectionViewTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		59CD5BA11FC2B56900760D33 /* collectionViewTaskTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectionViewTaskTests.swift; sourceTree = "<group>"; };
 		59CD5BA31FC2B56900760D33 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		59CD5BAC1FC2CC9D00760D33 /* imgAndtxtCVcell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imgAndtxtCVcell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				59CD5B951FC2B56800760D33 /* LaunchScreen.storyboard */,
 				59CD5B981FC2B56800760D33 /* Info.plist */,
 				59CD5B901FC2B56800760D33 /* collectionViewTask.xcdatamodeld */,
+				59CD5BAC1FC2CC9D00760D33 /* imgAndtxtCVcell.swift */,
 			);
 			path = collectionViewTask;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				59CD5B921FC2B56800760D33 /* collectionViewTask.xcdatamodeld in Sources */,
+				59CD5BAD1FC2CC9D00760D33 /* imgAndtxtCVcell.swift in Sources */,
 				59CD5B8C1FC2B56800760D33 /* ViewController.swift in Sources */,
 				59CD5B8A1FC2B56800760D33 /* AppDelegate.swift in Sources */,
 			);
